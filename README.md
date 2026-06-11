@@ -86,4 +86,14 @@ npm start
 
 The Real-Time Collaborative Document Editor demonstrates how Socket.IO can be used to build collaborative applications with instant synchronization between multiple users. The project successfully enables real-time document editing through a simple and efficient architecture.
 
+# OUTPUT
+
+<img width="253" height="772" alt="Image" src="https://github.com/user-attachments/assets/880aed0c-fb01-4bc5-98d4-4302b25ada7e" />
+
+<img width="530" height="227" alt="Image" src="https://github.com/user-attachments/assets/2498b330-d5f7-4d2b-b17c-f1a6970ddc92" />
+
+<img width="406" height="262" alt="Image" src="https://github.com/user-attachments/assets/cac90689-b279-4bc0-bc67-e37fd4a228fb" />
+
+<img width="1480" height="807" alt="Image" src="https://github.com/user-attachments/assets/9ec12d85-ac06-4655-b764-c88330dfd43a" />
+
 
